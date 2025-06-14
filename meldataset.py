@@ -79,64 +79,64 @@ class FilePathDataset(torch.utils.data.Dataset):
         spect_params = SPECT_PARAMS
         mel_params = MEL_PARAMS
 
-	_data_list = [l.strip().split('|') for l in data_list]
-	# On met "neutral" si pas d'émotion spécifiée (sinon on garde le 4e champ)
-	self.data_list = [data if len(data) == 4 else (*data, "neutral") for data in _data_list]
+        _data_list = [l.strip().split('|') for l in data_list]
+        # On met "neutral" si pas d'émotion spécifiée (sinon on garde le 4e champ)
+        self.data_list = [data if len(data) == 4 else (*data, "neutral") for data in _data_list]
 
         self.text_cleaner = TextCleaner()
         self.sr = sr
 
         self.df = pd.DataFrame(self.data_list)
-	self.df.columns = ["audio_path", "text", "speaker", "emotion"]
+        self.df.columns = ["audio_path", "text", "speaker", "emotion"]
 
         self.to_melspec = torchaudio.transforms.MelSpectrogram(**MEL_PARAMS)
 
         self.mean, self.std = -4, 4
         self.data_augmentation = data_augmentation and (not validation)
         self.max_mel_length = 192
-        
+
         self.min_length = min_length
         with open(OOD_data, 'r', encoding='utf-8') as f:
             tl = f.readlines()
         idx = 1 if '.wav' in tl[0].split('|')[0] else 0
         self.ptexts = [t.split('|')[idx] for t in tl]
-        
+
         self.root_path = root_path
 
     def __len__(self):
         return len(self.data_list)
 
-    def __getitem__(self, idx):        
+    def __getitem__(self, idx):
         data = self.data_list[idx]
         path = data[0]
         emotion = data[3]
 
         wave, text_tensor, speaker_id = self._load_tensor(data)
-        
+
         mel_tensor = preprocess(wave).squeeze()
-        
+
         acoustic_feature = mel_tensor.squeeze()
         length_feature = acoustic_feature.size(1)
         acoustic_feature = acoustic_feature[:, :(length_feature - length_feature % 2)]
-        
+
         # get reference sample
         ref_data = (self.df[self.df[2] == str(speaker_id)]).sample(n=1).iloc[0].tolist()
         ref_mel_tensor, ref_label = self._load_data(ref_data[:3])
-        
+
         # get OOD text
-        
+
         ps = ""
-        
+
         while len(ps) < self.min_length:
             rand_idx = np.random.randint(0, len(self.ptexts) - 1)
             ps = self.ptexts[rand_idx]
-            
+
             text = self.text_cleaner(ps)
             text.insert(0, 0)
             text.append(0)
 
             ref_text = torch.LongTensor(text)
-        
+
         return speaker_id, acoustic_feature, text_tensor, ref_text, ref_mel_tensor, ref_label, path, wave, emotion
 
     def _load_tensor(self, data):
@@ -148,14 +148,14 @@ class FilePathDataset(torch.utils.data.Dataset):
         if sr != 24000:
             wave = librosa.resample(wave, orig_sr=sr, target_sr=24000)
             print(wave_path, sr)
-            
+
         wave = np.concatenate([np.zeros([5000]), wave, np.zeros([5000])], axis=0)
-        
+
         text = self.text_cleaner(text)
-        
+
         text.insert(0, 0)
         text.append(0)
-        
+
         text = torch.LongTensor(text)
 
         return wave, text, speaker_id
@@ -183,7 +183,7 @@ class Collater(object):
         self.min_mel_length = 192
         self.max_mel_length = 192
         self.return_wave = return_wave
-        
+
 
     def __call__(self, batch):
         # batch[0] = wave, mel, text, f0, speakerid
@@ -211,7 +211,7 @@ class Collater(object):
         ref_labels = torch.zeros((batch_size)).long()
         paths = ['' for _ in range(batch_size)]
         waves = [None for _ in range(batch_size)]
-        
+
         for bid, (label, mel, text, ref_text, ref_mel, ref_label, path, wave) in enumerate(batch):
             mel_size = mel.size(1)
             text_size = text.size(0)
@@ -226,13 +226,11 @@ class Collater(object):
             paths[bid] = path
             ref_mel_size = ref_mel.size(1)
             ref_mels[bid, :, :ref_mel_size] = ref_mel
-            
+
             ref_labels[bid] = ref_label
             waves[bid] = wave
 
         return waves, texts, input_lengths, ref_texts, ref_lengths, mels, output_lengths, ref_mels
-
-
 
 def build_dataloader(path_list,
                      root_path,
@@ -244,7 +242,7 @@ def build_dataloader(path_list,
                      device='cpu',
                      collate_config={},
                      dataset_config={}):
-    
+
     dataset = FilePathDataset(path_list, root_path, OOD_data=OOD_data, min_length=min_length, validation=validation, **dataset_config)
     collate_fn = Collater(**collate_config)
     data_loader = DataLoader(dataset,
