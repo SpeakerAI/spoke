@@ -79,12 +79,15 @@ class FilePathDataset(torch.utils.data.Dataset):
         spect_params = SPECT_PARAMS
         mel_params = MEL_PARAMS
 
-        _data_list = [l.strip().split('|') for l in data_list]
-        self.data_list = [data if len(data) == 3 else (*data, 0) for data in _data_list]
+	_data_list = [l.strip().split('|') for l in data_list]
+	# On met "neutral" si pas d'émotion spécifiée (sinon on garde le 4e champ)
+	self.data_list = [data if len(data) == 4 else (*data, "neutral") for data in _data_list]
+
         self.text_cleaner = TextCleaner()
         self.sr = sr
 
         self.df = pd.DataFrame(self.data_list)
+	self.df.columns = ["audio_path", "text", "speaker", "emotion"]
 
         self.to_melspec = torchaudio.transforms.MelSpectrogram(**MEL_PARAMS)
 
@@ -106,7 +109,8 @@ class FilePathDataset(torch.utils.data.Dataset):
     def __getitem__(self, idx):        
         data = self.data_list[idx]
         path = data[0]
-        
+        emotion = data[3]
+
         wave, text_tensor, speaker_id = self._load_tensor(data)
         
         mel_tensor = preprocess(wave).squeeze()
@@ -133,7 +137,7 @@ class FilePathDataset(torch.utils.data.Dataset):
 
             ref_text = torch.LongTensor(text)
         
-        return speaker_id, acoustic_feature, text_tensor, ref_text, ref_mel_tensor, ref_label, path, wave
+        return speaker_id, acoustic_feature, text_tensor, ref_text, ref_mel_tensor, ref_label, path, wave, emotion
 
     def _load_tensor(self, data):
         wave_path, text, speaker_id = data

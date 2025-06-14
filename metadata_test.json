@@ -1,0 +1,1658 @@
+[
+  {
+    "audio_path": "ears_dataset_24k/p049/emo_sadness_sentences.wav",
+    "transcript": "I am so upset by the state of the world. I hope it gets better soon. I really miss her, life isn't the same without her. I'm sorry for your loss.",
+    "speaker": "p049",
+    "emotion": "sadness"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p049/emo_anger_sentences.wav",
+    "transcript": "I'm so mad right now I could punch a hole in the wall. I can't believe he said that, he's such a jerk! There's a stop sign there and parents are just letting their kids run around!",
+    "speaker": "p049",
+    "emotion": "anger"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p049/emo_extasy_sentences.wav",
+    "transcript": "This is the most exciting thing I've ever seen in my life! I can't believe I got to see that. I'm so excited, I've never been there before.",
+    "speaker": "p049",
+    "emotion": "extasy"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p049/emo_amazement_sentences.wav",
+    "transcript": "I just love how you can play guitar. You're so impressive. I admire your abilities so much.",
+    "speaker": "p049",
+    "emotion": "amazement"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p049/emo_adoration_sentences.wav",
+    "transcript": "You're just the sweetest person I know and I am so happy to call you my friend. I had the best time with you, I just adore you. I love this gift, thank you!",
+    "speaker": "p049",
+    "emotion": "adoration"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p049/emo_pain_sentences.wav",
+    "transcript": "Oh, this headache is the worst one I've ever had! My foot hurts so badly right now! I'm in terrible pain from that medication.",
+    "speaker": "p049",
+    "emotion": "pain"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p049/emo_serenity_sentences.wav",
+    "transcript": "This has been the most peaceful day of my life. I am very calm right now. I'm going to relax and take a nap here on the beach.",
+    "speaker": "p049",
+    "emotion": "serenity"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p049/emo_relief_sentences.wav",
+    "transcript": "I'm so relieved my taxes are done. That was so stressful. I'm so relieved that is over with. Thank goodness that's all done.",
+    "speaker": "p049",
+    "emotion": "relief"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p049/emo_disappointment_sentences.wav",
+    "transcript": "I'm so disappointed in myself. I wish I had worked harder. I had such higher expectations for you. I really was hoping you were better than this.",
+    "speaker": "p049",
+    "emotion": "disappointment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p049/emo_neutral_sentences.wav",
+    "transcript": "That wall in the living room is white. There is one more piece of bread in the pantry. The store closes at 8pm tonight.",
+    "speaker": "p049",
+    "emotion": "neutral"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p049/emo_confusion_sentences.wav",
+    "transcript": "Huh, what is going on over here? What is this? Where are we going?",
+    "speaker": "p049",
+    "emotion": "confusion"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p049/emo_pride_sentences.wav",
+    "transcript": "That was all me, I'm the one who found the project, created the company and made it succeed. I have worked hard to get here and I deserve it. I'm really proud of how well you did.",
+    "speaker": "p049",
+    "emotion": "pride"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p049/emo_distress_sentences.wav",
+    "transcript": "Oh god, I am not sure if we are going to make this flight on time. This is all too stressful to handle right now. I don't know where anything is and I'm running late.",
+    "speaker": "p049",
+    "emotion": "distress"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p049/emo_amusement_sentences.wav",
+    "transcript": "The sound that baby just made was quite amusing. I liked that stand up comic, I found her pretty funny. What a fun little show to watch!",
+    "speaker": "p049",
+    "emotion": "amusement"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p049/emo_guilt_sentences.wav",
+    "transcript": "I'm sorry I did that to you. I really didn't mean to hurt you. I feel horrible that happened to you.",
+    "speaker": "p049",
+    "emotion": "guilt"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p049/emo_desire_sentences.wav",
+    "transcript": "Mmm that chocolate fudge lava cake looks devine. I want that car so badly. I can't wait to see you again.",
+    "speaker": "p049",
+    "emotion": "desire"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p049/emo_disgust_sentences.wav",
+    "transcript": "I have never seen anything grosser than this in my entire life. This is the worst dinner I've ever had. Yuck, I can't even look at that.",
+    "speaker": "p049",
+    "emotion": "disgust"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p049/emo_fear_sentences.wav",
+    "transcript": "Did you hear that sound? I'm afraid someone or something is outside. Oh my gosh, what is that? What do you think is going to happen if we don't run?",
+    "speaker": "p049",
+    "emotion": "fear"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p049/emo_embarassment_sentences.wav",
+    "transcript": "I don't know what happend, I followed the recipe perfectly but the cake just deflated. I'm so embarrassed. I hope no one saw that, I'd be mortified if they did.",
+    "speaker": "p049",
+    "emotion": "embarassment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p049/emo_contentment_sentences.wav",
+    "transcript": "I really enjoyed dinner tonight, it was quite nice. Everything is working out just fine. I'm good either way.",
+    "speaker": "p049",
+    "emotion": "contentment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p049/emo_realization_sentences.wav",
+    "transcript": "Wow, I never know that the body was made up of 75% water. Did you know that a flamingo is actually white but turns pink because it eats too many shrimp? Apparently dolphins sleep with one eye open.",
+    "speaker": "p049",
+    "emotion": "realization"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p049/emo_interest_sentences.wav",
+    "transcript": "Hmm, I wonder what that cookie tastes like. Oh, what is that over there? So what exactly is it that you do?",
+    "speaker": "p049",
+    "emotion": "interest"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p049/emo_cuteness_sentences.wav",
+    "transcript": "Look at that cute little kitty cat! Oh my goodness, she's so cute! That's the cutest thing I've ever seen!",
+    "speaker": "p049",
+    "emotion": "cuteness"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p106/emo_sadness_sentences.wav",
+    "transcript": "I am so upset by the state of the world. I hope it gets better soon. I really miss her, life isn't the same without her. I'm sorry for your loss.",
+    "speaker": "p106",
+    "emotion": "sadness"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p106/emo_anger_sentences.wav",
+    "transcript": "I'm so mad right now I could punch a hole in the wall. I can't believe he said that, he's such a jerk! There's a stop sign there and parents are just letting their kids run around!",
+    "speaker": "p106",
+    "emotion": "anger"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p106/emo_extasy_sentences.wav",
+    "transcript": "This is the most exciting thing I've ever seen in my life! I can't believe I got to see that. I'm so excited, I've never been there before.",
+    "speaker": "p106",
+    "emotion": "extasy"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p106/emo_amazement_sentences.wav",
+    "transcript": "I just love how you can play guitar. You're so impressive. I admire your abilities so much.",
+    "speaker": "p106",
+    "emotion": "amazement"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p106/emo_adoration_sentences.wav",
+    "transcript": "You're just the sweetest person I know and I am so happy to call you my friend. I had the best time with you, I just adore you. I love this gift, thank you!",
+    "speaker": "p106",
+    "emotion": "adoration"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p106/emo_pain_sentences.wav",
+    "transcript": "Oh, this headache is the worst one I've ever had! My foot hurts so badly right now! I'm in terrible pain from that medication.",
+    "speaker": "p106",
+    "emotion": "pain"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p106/emo_serenity_sentences.wav",
+    "transcript": "This has been the most peaceful day of my life. I am very calm right now. I'm going to relax and take a nap here on the beach.",
+    "speaker": "p106",
+    "emotion": "serenity"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p106/emo_relief_sentences.wav",
+    "transcript": "I'm so relieved my taxes are done. That was so stressful. I'm so relieved that is over with. Thank goodness that's all done.",
+    "speaker": "p106",
+    "emotion": "relief"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p106/emo_disappointment_sentences.wav",
+    "transcript": "I'm so disappointed in myself. I wish I had worked harder. I had such higher expectations for you. I really was hoping you were better than this.",
+    "speaker": "p106",
+    "emotion": "disappointment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p106/emo_neutral_sentences.wav",
+    "transcript": "That wall in the living room is white. There is one more piece of bread in the pantry. The store closes at 8pm tonight.",
+    "speaker": "p106",
+    "emotion": "neutral"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p106/emo_confusion_sentences.wav",
+    "transcript": "Huh, what is going on over here? What is this? Where are we going?",
+    "speaker": "p106",
+    "emotion": "confusion"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p106/emo_pride_sentences.wav",
+    "transcript": "That was all me, I'm the one who found the project, created the company and made it succeed. I have worked hard to get here and I deserve it. I'm really proud of how well you did.",
+    "speaker": "p106",
+    "emotion": "pride"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p106/emo_distress_sentences.wav",
+    "transcript": "Oh god, I am not sure if we are going to make this flight on time. This is all too stressful to handle right now. I don't know where anything is and I'm running late.",
+    "speaker": "p106",
+    "emotion": "distress"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p106/emo_amusement_sentences.wav",
+    "transcript": "The sound that baby just made was quite amusing. I liked that stand up comic, I found her pretty funny. What a fun little show to watch!",
+    "speaker": "p106",
+    "emotion": "amusement"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p106/emo_guilt_sentences.wav",
+    "transcript": "I'm sorry I did that to you. I really didn't mean to hurt you. I feel horrible that happened to you.",
+    "speaker": "p106",
+    "emotion": "guilt"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p106/emo_desire_sentences.wav",
+    "transcript": "Mmm that chocolate fudge lava cake looks devine. I want that car so badly. I can't wait to see you again.",
+    "speaker": "p106",
+    "emotion": "desire"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p106/emo_disgust_sentences.wav",
+    "transcript": "I have never seen anything grosser than this in my entire life. This is the worst dinner I've ever had. Yuck, I can't even look at that.",
+    "speaker": "p106",
+    "emotion": "disgust"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p106/emo_fear_sentences.wav",
+    "transcript": "Did you hear that sound? I'm afraid someone or something is outside. Oh my gosh, what is that? What do you think is going to happen if we don't run?",
+    "speaker": "p106",
+    "emotion": "fear"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p106/emo_embarassment_sentences.wav",
+    "transcript": "I don't know what happend, I followed the recipe perfectly but the cake just deflated. I'm so embarrassed. I hope no one saw that, I'd be mortified if they did.",
+    "speaker": "p106",
+    "emotion": "embarassment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p106/emo_contentment_sentences.wav",
+    "transcript": "I really enjoyed dinner tonight, it was quite nice. Everything is working out just fine. I'm good either way.",
+    "speaker": "p106",
+    "emotion": "contentment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p106/emo_realization_sentences.wav",
+    "transcript": "Wow, I never know that the body was made up of 75% water. Did you know that a flamingo is actually white but turns pink because it eats too many shrimp? Apparently dolphins sleep with one eye open.",
+    "speaker": "p106",
+    "emotion": "realization"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p106/emo_interest_sentences.wav",
+    "transcript": "Hmm, I wonder what that cookie tastes like. Oh, what is that over there? So what exactly is it that you do?",
+    "speaker": "p106",
+    "emotion": "interest"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p106/emo_cuteness_sentences.wav",
+    "transcript": "Look at that cute little kitty cat! Oh my goodness, she's so cute! That's the cutest thing I've ever seen!",
+    "speaker": "p106",
+    "emotion": "cuteness"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p104/emo_sadness_sentences.wav",
+    "transcript": "I am so upset by the state of the world. I hope it gets better soon. I really miss her, life isn't the same without her. I'm sorry for your loss.",
+    "speaker": "p104",
+    "emotion": "sadness"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p104/emo_anger_sentences.wav",
+    "transcript": "I'm so mad right now I could punch a hole in the wall. I can't believe he said that, he's such a jerk! There's a stop sign there and parents are just letting their kids run around!",
+    "speaker": "p104",
+    "emotion": "anger"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p104/emo_extasy_sentences.wav",
+    "transcript": "This is the most exciting thing I've ever seen in my life! I can't believe I got to see that. I'm so excited, I've never been there before.",
+    "speaker": "p104",
+    "emotion": "extasy"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p104/emo_amazement_sentences.wav",
+    "transcript": "I just love how you can play guitar. You're so impressive. I admire your abilities so much.",
+    "speaker": "p104",
+    "emotion": "amazement"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p104/emo_adoration_sentences.wav",
+    "transcript": "You're just the sweetest person I know and I am so happy to call you my friend. I had the best time with you, I just adore you. I love this gift, thank you!",
+    "speaker": "p104",
+    "emotion": "adoration"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p104/emo_pain_sentences.wav",
+    "transcript": "Oh, this headache is the worst one I've ever had! My foot hurts so badly right now! I'm in terrible pain from that medication.",
+    "speaker": "p104",
+    "emotion": "pain"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p104/emo_serenity_sentences.wav",
+    "transcript": "This has been the most peaceful day of my life. I am very calm right now. I'm going to relax and take a nap here on the beach.",
+    "speaker": "p104",
+    "emotion": "serenity"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p104/emo_relief_sentences.wav",
+    "transcript": "I'm so relieved my taxes are done. That was so stressful. I'm so relieved that is over with. Thank goodness that's all done.",
+    "speaker": "p104",
+    "emotion": "relief"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p104/emo_disappointment_sentences.wav",
+    "transcript": "I'm so disappointed in myself. I wish I had worked harder. I had such higher expectations for you. I really was hoping you were better than this.",
+    "speaker": "p104",
+    "emotion": "disappointment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p104/emo_neutral_sentences.wav",
+    "transcript": "That wall in the living room is white. There is one more piece of bread in the pantry. The store closes at 8pm tonight.",
+    "speaker": "p104",
+    "emotion": "neutral"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p104/emo_confusion_sentences.wav",
+    "transcript": "Huh, what is going on over here? What is this? Where are we going?",
+    "speaker": "p104",
+    "emotion": "confusion"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p104/emo_pride_sentences.wav",
+    "transcript": "That was all me, I'm the one who found the project, created the company and made it succeed. I have worked hard to get here and I deserve it. I'm really proud of how well you did.",
+    "speaker": "p104",
+    "emotion": "pride"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p104/emo_distress_sentences.wav",
+    "transcript": "Oh god, I am not sure if we are going to make this flight on time. This is all too stressful to handle right now. I don't know where anything is and I'm running late.",
+    "speaker": "p104",
+    "emotion": "distress"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p104/emo_amusement_sentences.wav",
+    "transcript": "The sound that baby just made was quite amusing. I liked that stand up comic, I found her pretty funny. What a fun little show to watch!",
+    "speaker": "p104",
+    "emotion": "amusement"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p104/emo_guilt_sentences.wav",
+    "transcript": "I'm sorry I did that to you. I really didn't mean to hurt you. I feel horrible that happened to you.",
+    "speaker": "p104",
+    "emotion": "guilt"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p104/emo_desire_sentences.wav",
+    "transcript": "Mmm that chocolate fudge lava cake looks devine. I want that car so badly. I can't wait to see you again.",
+    "speaker": "p104",
+    "emotion": "desire"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p104/emo_disgust_sentences.wav",
+    "transcript": "I have never seen anything grosser than this in my entire life. This is the worst dinner I've ever had. Yuck, I can't even look at that.",
+    "speaker": "p104",
+    "emotion": "disgust"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p104/emo_fear_sentences.wav",
+    "transcript": "Did you hear that sound? I'm afraid someone or something is outside. Oh my gosh, what is that? What do you think is going to happen if we don't run?",
+    "speaker": "p104",
+    "emotion": "fear"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p104/emo_embarassment_sentences.wav",
+    "transcript": "I don't know what happend, I followed the recipe perfectly but the cake just deflated. I'm so embarrassed. I hope no one saw that, I'd be mortified if they did.",
+    "speaker": "p104",
+    "emotion": "embarassment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p104/emo_contentment_sentences.wav",
+    "transcript": "I really enjoyed dinner tonight, it was quite nice. Everything is working out just fine. I'm good either way.",
+    "speaker": "p104",
+    "emotion": "contentment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p104/emo_realization_sentences.wav",
+    "transcript": "Wow, I never know that the body was made up of 75% water. Did you know that a flamingo is actually white but turns pink because it eats too many shrimp? Apparently dolphins sleep with one eye open.",
+    "speaker": "p104",
+    "emotion": "realization"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p104/emo_interest_sentences.wav",
+    "transcript": "Hmm, I wonder what that cookie tastes like. Oh, what is that over there? So what exactly is it that you do?",
+    "speaker": "p104",
+    "emotion": "interest"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p104/emo_cuteness_sentences.wav",
+    "transcript": "Look at that cute little kitty cat! Oh my goodness, she's so cute! That's the cutest thing I've ever seen!",
+    "speaker": "p104",
+    "emotion": "cuteness"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p103/emo_sadness_sentences.wav",
+    "transcript": "I am so upset by the state of the world. I hope it gets better soon. I really miss her, life isn't the same without her. I'm sorry for your loss.",
+    "speaker": "p103",
+    "emotion": "sadness"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p103/emo_anger_sentences.wav",
+    "transcript": "I'm so mad right now I could punch a hole in the wall. I can't believe he said that, he's such a jerk! There's a stop sign there and parents are just letting their kids run around!",
+    "speaker": "p103",
+    "emotion": "anger"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p103/emo_extasy_sentences.wav",
+    "transcript": "This is the most exciting thing I've ever seen in my life! I can't believe I got to see that. I'm so excited, I've never been there before.",
+    "speaker": "p103",
+    "emotion": "extasy"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p103/emo_amazement_sentences.wav",
+    "transcript": "I just love how you can play guitar. You're so impressive. I admire your abilities so much.",
+    "speaker": "p103",
+    "emotion": "amazement"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p103/emo_adoration_sentences.wav",
+    "transcript": "You're just the sweetest person I know and I am so happy to call you my friend. I had the best time with you, I just adore you. I love this gift, thank you!",
+    "speaker": "p103",
+    "emotion": "adoration"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p103/emo_pain_sentences.wav",
+    "transcript": "Oh, this headache is the worst one I've ever had! My foot hurts so badly right now! I'm in terrible pain from that medication.",
+    "speaker": "p103",
+    "emotion": "pain"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p103/emo_serenity_sentences.wav",
+    "transcript": "This has been the most peaceful day of my life. I am very calm right now. I'm going to relax and take a nap here on the beach.",
+    "speaker": "p103",
+    "emotion": "serenity"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p103/emo_relief_sentences.wav",
+    "transcript": "I'm so relieved my taxes are done. That was so stressful. I'm so relieved that is over with. Thank goodness that's all done.",
+    "speaker": "p103",
+    "emotion": "relief"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p103/emo_disappointment_sentences.wav",
+    "transcript": "I'm so disappointed in myself. I wish I had worked harder. I had such higher expectations for you. I really was hoping you were better than this.",
+    "speaker": "p103",
+    "emotion": "disappointment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p103/emo_neutral_sentences.wav",
+    "transcript": "That wall in the living room is white. There is one more piece of bread in the pantry. The store closes at 8pm tonight.",
+    "speaker": "p103",
+    "emotion": "neutral"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p103/emo_confusion_sentences.wav",
+    "transcript": "Huh, what is going on over here? What is this? Where are we going?",
+    "speaker": "p103",
+    "emotion": "confusion"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p103/emo_pride_sentences.wav",
+    "transcript": "That was all me, I'm the one who found the project, created the company and made it succeed. I have worked hard to get here and I deserve it. I'm really proud of how well you did.",
+    "speaker": "p103",
+    "emotion": "pride"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p103/emo_distress_sentences.wav",
+    "transcript": "Oh god, I am not sure if we are going to make this flight on time. This is all too stressful to handle right now. I don't know where anything is and I'm running late.",
+    "speaker": "p103",
+    "emotion": "distress"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p103/emo_amusement_sentences.wav",
+    "transcript": "The sound that baby just made was quite amusing. I liked that stand up comic, I found her pretty funny. What a fun little show to watch!",
+    "speaker": "p103",
+    "emotion": "amusement"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p103/emo_guilt_sentences.wav",
+    "transcript": "I'm sorry I did that to you. I really didn't mean to hurt you. I feel horrible that happened to you.",
+    "speaker": "p103",
+    "emotion": "guilt"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p103/emo_desire_sentences.wav",
+    "transcript": "Mmm that chocolate fudge lava cake looks devine. I want that car so badly. I can't wait to see you again.",
+    "speaker": "p103",
+    "emotion": "desire"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p103/emo_disgust_sentences.wav",
+    "transcript": "I have never seen anything grosser than this in my entire life. This is the worst dinner I've ever had. Yuck, I can't even look at that.",
+    "speaker": "p103",
+    "emotion": "disgust"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p103/emo_fear_sentences.wav",
+    "transcript": "Did you hear that sound? I'm afraid someone or something is outside. Oh my gosh, what is that? What do you think is going to happen if we don't run?",
+    "speaker": "p103",
+    "emotion": "fear"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p103/emo_embarassment_sentences.wav",
+    "transcript": "I don't know what happend, I followed the recipe perfectly but the cake just deflated. I'm so embarrassed. I hope no one saw that, I'd be mortified if they did.",
+    "speaker": "p103",
+    "emotion": "embarassment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p103/emo_contentment_sentences.wav",
+    "transcript": "I really enjoyed dinner tonight, it was quite nice. Everything is working out just fine. I'm good either way.",
+    "speaker": "p103",
+    "emotion": "contentment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p103/emo_realization_sentences.wav",
+    "transcript": "Wow, I never know that the body was made up of 75% water. Did you know that a flamingo is actually white but turns pink because it eats too many shrimp? Apparently dolphins sleep with one eye open.",
+    "speaker": "p103",
+    "emotion": "realization"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p103/emo_interest_sentences.wav",
+    "transcript": "Hmm, I wonder what that cookie tastes like. Oh, what is that over there? So what exactly is it that you do?",
+    "speaker": "p103",
+    "emotion": "interest"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p103/emo_cuteness_sentences.wav",
+    "transcript": "Look at that cute little kitty cat! Oh my goodness, she's so cute! That's the cutest thing I've ever seen!",
+    "speaker": "p103",
+    "emotion": "cuteness"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p044/emo_sadness_sentences.wav",
+    "transcript": "I am so upset by the state of the world. I hope it gets better soon. I really miss her, life isn't the same without her. I'm sorry for your loss.",
+    "speaker": "p044",
+    "emotion": "sadness"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p044/emo_anger_sentences.wav",
+    "transcript": "I'm so mad right now I could punch a hole in the wall. I can't believe he said that, he's such a jerk! There's a stop sign there and parents are just letting their kids run around!",
+    "speaker": "p044",
+    "emotion": "anger"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p044/emo_extasy_sentences.wav",
+    "transcript": "This is the most exciting thing I've ever seen in my life! I can't believe I got to see that. I'm so excited, I've never been there before.",
+    "speaker": "p044",
+    "emotion": "extasy"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p044/emo_amazement_sentences.wav",
+    "transcript": "I just love how you can play guitar. You're so impressive. I admire your abilities so much.",
+    "speaker": "p044",
+    "emotion": "amazement"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p044/emo_adoration_sentences.wav",
+    "transcript": "You're just the sweetest person I know and I am so happy to call you my friend. I had the best time with you, I just adore you. I love this gift, thank you!",
+    "speaker": "p044",
+    "emotion": "adoration"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p044/emo_pain_sentences.wav",
+    "transcript": "Oh, this headache is the worst one I've ever had! My foot hurts so badly right now! I'm in terrible pain from that medication.",
+    "speaker": "p044",
+    "emotion": "pain"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p044/emo_serenity_sentences.wav",
+    "transcript": "This has been the most peaceful day of my life. I am very calm right now. I'm going to relax and take a nap here on the beach.",
+    "speaker": "p044",
+    "emotion": "serenity"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p044/emo_relief_sentences.wav",
+    "transcript": "I'm so relieved my taxes are done. That was so stressful. I'm so relieved that is over with. Thank goodness that's all done.",
+    "speaker": "p044",
+    "emotion": "relief"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p044/emo_disappointment_sentences.wav",
+    "transcript": "I'm so disappointed in myself. I wish I had worked harder. I had such higher expectations for you. I really was hoping you were better than this.",
+    "speaker": "p044",
+    "emotion": "disappointment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p044/emo_neutral_sentences.wav",
+    "transcript": "That wall in the living room is white. There is one more piece of bread in the pantry. The store closes at 8pm tonight.",
+    "speaker": "p044",
+    "emotion": "neutral"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p044/emo_confusion_sentences.wav",
+    "transcript": "Huh, what is going on over here? What is this? Where are we going?",
+    "speaker": "p044",
+    "emotion": "confusion"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p044/emo_pride_sentences.wav",
+    "transcript": "That was all me, I'm the one who found the project, created the company and made it succeed. I have worked hard to get here and I deserve it. I'm really proud of how well you did.",
+    "speaker": "p044",
+    "emotion": "pride"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p044/emo_distress_sentences.wav",
+    "transcript": "Oh god, I am not sure if we are going to make this flight on time. This is all too stressful to handle right now. I don't know where anything is and I'm running late.",
+    "speaker": "p044",
+    "emotion": "distress"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p044/emo_amusement_sentences.wav",
+    "transcript": "The sound that baby just made was quite amusing. I liked that stand up comic, I found her pretty funny. What a fun little show to watch!",
+    "speaker": "p044",
+    "emotion": "amusement"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p044/emo_guilt_sentences.wav",
+    "transcript": "I'm sorry I did that to you. I really didn't mean to hurt you. I feel horrible that happened to you.",
+    "speaker": "p044",
+    "emotion": "guilt"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p044/emo_desire_sentences.wav",
+    "transcript": "Mmm that chocolate fudge lava cake looks devine. I want that car so badly. I can't wait to see you again.",
+    "speaker": "p044",
+    "emotion": "desire"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p044/emo_disgust_sentences.wav",
+    "transcript": "I have never seen anything grosser than this in my entire life. This is the worst dinner I've ever had. Yuck, I can't even look at that.",
+    "speaker": "p044",
+    "emotion": "disgust"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p044/emo_fear_sentences.wav",
+    "transcript": "Did you hear that sound? I'm afraid someone or something is outside. Oh my gosh, what is that? What do you think is going to happen if we don't run?",
+    "speaker": "p044",
+    "emotion": "fear"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p044/emo_embarassment_sentences.wav",
+    "transcript": "I don't know what happend, I followed the recipe perfectly but the cake just deflated. I'm so embarrassed. I hope no one saw that, I'd be mortified if they did.",
+    "speaker": "p044",
+    "emotion": "embarassment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p044/emo_contentment_sentences.wav",
+    "transcript": "I really enjoyed dinner tonight, it was quite nice. Everything is working out just fine. I'm good either way.",
+    "speaker": "p044",
+    "emotion": "contentment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p044/emo_realization_sentences.wav",
+    "transcript": "Wow, I never know that the body was made up of 75% water. Did you know that a flamingo is actually white but turns pink because it eats too many shrimp? Apparently dolphins sleep with one eye open.",
+    "speaker": "p044",
+    "emotion": "realization"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p044/emo_interest_sentences.wav",
+    "transcript": "Hmm, I wonder what that cookie tastes like. Oh, what is that over there? So what exactly is it that you do?",
+    "speaker": "p044",
+    "emotion": "interest"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p044/emo_cuteness_sentences.wav",
+    "transcript": "Look at that cute little kitty cat! Oh my goodness, she's so cute! That's the cutest thing I've ever seen!",
+    "speaker": "p044",
+    "emotion": "cuteness"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p030/emo_sadness_sentences.wav",
+    "transcript": "I am so upset by the state of the world. I hope it gets better soon. I really miss her, life isn't the same without her. I'm sorry for your loss.",
+    "speaker": "p030",
+    "emotion": "sadness"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p030/emo_anger_sentences.wav",
+    "transcript": "I'm so mad right now I could punch a hole in the wall. I can't believe he said that, he's such a jerk! There's a stop sign there and parents are just letting their kids run around!",
+    "speaker": "p030",
+    "emotion": "anger"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p030/emo_extasy_sentences.wav",
+    "transcript": "This is the most exciting thing I've ever seen in my life! I can't believe I got to see that. I'm so excited, I've never been there before.",
+    "speaker": "p030",
+    "emotion": "extasy"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p030/emo_amazement_sentences.wav",
+    "transcript": "I just love how you can play guitar. You're so impressive. I admire your abilities so much.",
+    "speaker": "p030",
+    "emotion": "amazement"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p030/emo_adoration_sentences.wav",
+    "transcript": "You're just the sweetest person I know and I am so happy to call you my friend. I had the best time with you, I just adore you. I love this gift, thank you!",
+    "speaker": "p030",
+    "emotion": "adoration"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p030/emo_pain_sentences.wav",
+    "transcript": "Oh, this headache is the worst one I've ever had! My foot hurts so badly right now! I'm in terrible pain from that medication.",
+    "speaker": "p030",
+    "emotion": "pain"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p030/emo_serenity_sentences.wav",
+    "transcript": "This has been the most peaceful day of my life. I am very calm right now. I'm going to relax and take a nap here on the beach.",
+    "speaker": "p030",
+    "emotion": "serenity"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p030/emo_relief_sentences.wav",
+    "transcript": "I'm so relieved my taxes are done. That was so stressful. I'm so relieved that is over with. Thank goodness that's all done.",
+    "speaker": "p030",
+    "emotion": "relief"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p030/emo_disappointment_sentences.wav",
+    "transcript": "I'm so disappointed in myself. I wish I had worked harder. I had such higher expectations for you. I really was hoping you were better than this.",
+    "speaker": "p030",
+    "emotion": "disappointment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p030/emo_neutral_sentences.wav",
+    "transcript": "That wall in the living room is white. There is one more piece of bread in the pantry. The store closes at 8pm tonight.",
+    "speaker": "p030",
+    "emotion": "neutral"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p030/emo_confusion_sentences.wav",
+    "transcript": "Huh, what is going on over here? What is this? Where are we going?",
+    "speaker": "p030",
+    "emotion": "confusion"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p030/emo_pride_sentences.wav",
+    "transcript": "That was all me, I'm the one who found the project, created the company and made it succeed. I have worked hard to get here and I deserve it. I'm really proud of how well you did.",
+    "speaker": "p030",
+    "emotion": "pride"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p030/emo_distress_sentences.wav",
+    "transcript": "Oh god, I am not sure if we are going to make this flight on time. This is all too stressful to handle right now. I don't know where anything is and I'm running late.",
+    "speaker": "p030",
+    "emotion": "distress"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p030/emo_amusement_sentences.wav",
+    "transcript": "The sound that baby just made was quite amusing. I liked that stand up comic, I found her pretty funny. What a fun little show to watch!",
+    "speaker": "p030",
+    "emotion": "amusement"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p030/emo_guilt_sentences.wav",
+    "transcript": "I'm sorry I did that to you. I really didn't mean to hurt you. I feel horrible that happened to you.",
+    "speaker": "p030",
+    "emotion": "guilt"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p030/emo_desire_sentences.wav",
+    "transcript": "Mmm that chocolate fudge lava cake looks devine. I want that car so badly. I can't wait to see you again.",
+    "speaker": "p030",
+    "emotion": "desire"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p030/emo_disgust_sentences.wav",
+    "transcript": "I have never seen anything grosser than this in my entire life. This is the worst dinner I've ever had. Yuck, I can't even look at that.",
+    "speaker": "p030",
+    "emotion": "disgust"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p030/emo_fear_sentences.wav",
+    "transcript": "Did you hear that sound? I'm afraid someone or something is outside. Oh my gosh, what is that? What do you think is going to happen if we don't run?",
+    "speaker": "p030",
+    "emotion": "fear"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p030/emo_embarassment_sentences.wav",
+    "transcript": "I don't know what happend, I followed the recipe perfectly but the cake just deflated. I'm so embarrassed. I hope no one saw that, I'd be mortified if they did.",
+    "speaker": "p030",
+    "emotion": "embarassment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p030/emo_contentment_sentences.wav",
+    "transcript": "I really enjoyed dinner tonight, it was quite nice. Everything is working out just fine. I'm good either way.",
+    "speaker": "p030",
+    "emotion": "contentment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p030/emo_realization_sentences.wav",
+    "transcript": "Wow, I never know that the body was made up of 75% water. Did you know that a flamingo is actually white but turns pink because it eats too many shrimp? Apparently dolphins sleep with one eye open.",
+    "speaker": "p030",
+    "emotion": "realization"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p030/emo_interest_sentences.wav",
+    "transcript": "Hmm, I wonder what that cookie tastes like. Oh, what is that over there? So what exactly is it that you do?",
+    "speaker": "p030",
+    "emotion": "interest"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p030/emo_cuteness_sentences.wav",
+    "transcript": "Look at that cute little kitty cat! Oh my goodness, she's so cute! That's the cutest thing I've ever seen!",
+    "speaker": "p030",
+    "emotion": "cuteness"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p010/emo_sadness_sentences.wav",
+    "transcript": "I am so upset by the state of the world. I hope it gets better soon. I really miss her, life isn't the same without her. I'm sorry for your loss.",
+    "speaker": "p010",
+    "emotion": "sadness"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p010/emo_anger_sentences.wav",
+    "transcript": "I'm so mad right now I could punch a hole in the wall. I can't believe he said that, he's such a jerk! There's a stop sign there and parents are just letting their kids run around!",
+    "speaker": "p010",
+    "emotion": "anger"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p010/emo_extasy_sentences.wav",
+    "transcript": "This is the most exciting thing I've ever seen in my life! I can't believe I got to see that. I'm so excited, I've never been there before.",
+    "speaker": "p010",
+    "emotion": "extasy"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p010/emo_amazement_sentences.wav",
+    "transcript": "I just love how you can play guitar. You're so impressive. I admire your abilities so much.",
+    "speaker": "p010",
+    "emotion": "amazement"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p010/emo_adoration_sentences.wav",
+    "transcript": "You're just the sweetest person I know and I am so happy to call you my friend. I had the best time with you, I just adore you. I love this gift, thank you!",
+    "speaker": "p010",
+    "emotion": "adoration"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p010/emo_pain_sentences.wav",
+    "transcript": "Oh, this headache is the worst one I've ever had! My foot hurts so badly right now! I'm in terrible pain from that medication.",
+    "speaker": "p010",
+    "emotion": "pain"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p010/emo_serenity_sentences.wav",
+    "transcript": "This has been the most peaceful day of my life. I am very calm right now. I'm going to relax and take a nap here on the beach.",
+    "speaker": "p010",
+    "emotion": "serenity"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p010/emo_relief_sentences.wav",
+    "transcript": "I'm so relieved my taxes are done. That was so stressful. I'm so relieved that is over with. Thank goodness that's all done.",
+    "speaker": "p010",
+    "emotion": "relief"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p010/emo_disappointment_sentences.wav",
+    "transcript": "I'm so disappointed in myself. I wish I had worked harder. I had such higher expectations for you. I really was hoping you were better than this.",
+    "speaker": "p010",
+    "emotion": "disappointment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p010/emo_neutral_sentences.wav",
+    "transcript": "That wall in the living room is white. There is one more piece of bread in the pantry. The store closes at 8pm tonight.",
+    "speaker": "p010",
+    "emotion": "neutral"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p010/emo_confusion_sentences.wav",
+    "transcript": "Huh, what is going on over here? What is this? Where are we going?",
+    "speaker": "p010",
+    "emotion": "confusion"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p010/emo_pride_sentences.wav",
+    "transcript": "That was all me, I'm the one who found the project, created the company and made it succeed. I have worked hard to get here and I deserve it. I'm really proud of how well you did.",
+    "speaker": "p010",
+    "emotion": "pride"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p010/emo_distress_sentences.wav",
+    "transcript": "Oh god, I am not sure if we are going to make this flight on time. This is all too stressful to handle right now. I don't know where anything is and I'm running late.",
+    "speaker": "p010",
+    "emotion": "distress"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p010/emo_amusement_sentences.wav",
+    "transcript": "The sound that baby just made was quite amusing. I liked that stand up comic, I found her pretty funny. What a fun little show to watch!",
+    "speaker": "p010",
+    "emotion": "amusement"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p010/emo_guilt_sentences.wav",
+    "transcript": "I'm sorry I did that to you. I really didn't mean to hurt you. I feel horrible that happened to you.",
+    "speaker": "p010",
+    "emotion": "guilt"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p010/emo_desire_sentences.wav",
+    "transcript": "Mmm that chocolate fudge lava cake looks devine. I want that car so badly. I can't wait to see you again.",
+    "speaker": "p010",
+    "emotion": "desire"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p010/emo_disgust_sentences.wav",
+    "transcript": "I have never seen anything grosser than this in my entire life. This is the worst dinner I've ever had. Yuck, I can't even look at that.",
+    "speaker": "p010",
+    "emotion": "disgust"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p010/emo_fear_sentences.wav",
+    "transcript": "Did you hear that sound? I'm afraid someone or something is outside. Oh my gosh, what is that? What do you think is going to happen if we don't run?",
+    "speaker": "p010",
+    "emotion": "fear"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p010/emo_embarassment_sentences.wav",
+    "transcript": "I don't know what happend, I followed the recipe perfectly but the cake just deflated. I'm so embarrassed. I hope no one saw that, I'd be mortified if they did.",
+    "speaker": "p010",
+    "emotion": "embarassment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p010/emo_contentment_sentences.wav",
+    "transcript": "I really enjoyed dinner tonight, it was quite nice. Everything is working out just fine. I'm good either way.",
+    "speaker": "p010",
+    "emotion": "contentment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p010/emo_realization_sentences.wav",
+    "transcript": "Wow, I never know that the body was made up of 75% water. Did you know that a flamingo is actually white but turns pink because it eats too many shrimp? Apparently dolphins sleep with one eye open.",
+    "speaker": "p010",
+    "emotion": "realization"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p010/emo_interest_sentences.wav",
+    "transcript": "Hmm, I wonder what that cookie tastes like. Oh, what is that over there? So what exactly is it that you do?",
+    "speaker": "p010",
+    "emotion": "interest"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p010/emo_cuteness_sentences.wav",
+    "transcript": "Look at that cute little kitty cat! Oh my goodness, she's so cute! That's the cutest thing I've ever seen!",
+    "speaker": "p010",
+    "emotion": "cuteness"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p022/emo_sadness_sentences.wav",
+    "transcript": "I am so upset by the state of the world. I hope it gets better soon. I really miss her, life isn't the same without her. I'm sorry for your loss.",
+    "speaker": "p022",
+    "emotion": "sadness"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p022/emo_anger_sentences.wav",
+    "transcript": "I'm so mad right now I could punch a hole in the wall. I can't believe he said that, he's such a jerk! There's a stop sign there and parents are just letting their kids run around!",
+    "speaker": "p022",
+    "emotion": "anger"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p022/emo_extasy_sentences.wav",
+    "transcript": "This is the most exciting thing I've ever seen in my life! I can't believe I got to see that. I'm so excited, I've never been there before.",
+    "speaker": "p022",
+    "emotion": "extasy"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p022/emo_amazement_sentences.wav",
+    "transcript": "I just love how you can play guitar. You're so impressive. I admire your abilities so much.",
+    "speaker": "p022",
+    "emotion": "amazement"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p022/emo_adoration_sentences.wav",
+    "transcript": "You're just the sweetest person I know and I am so happy to call you my friend. I had the best time with you, I just adore you. I love this gift, thank you!",
+    "speaker": "p022",
+    "emotion": "adoration"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p022/emo_pain_sentences.wav",
+    "transcript": "Oh, this headache is the worst one I've ever had! My foot hurts so badly right now! I'm in terrible pain from that medication.",
+    "speaker": "p022",
+    "emotion": "pain"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p022/emo_serenity_sentences.wav",
+    "transcript": "This has been the most peaceful day of my life. I am very calm right now. I'm going to relax and take a nap here on the beach.",
+    "speaker": "p022",
+    "emotion": "serenity"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p022/emo_relief_sentences.wav",
+    "transcript": "I'm so relieved my taxes are done. That was so stressful. I'm so relieved that is over with. Thank goodness that's all done.",
+    "speaker": "p022",
+    "emotion": "relief"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p022/emo_disappointment_sentences.wav",
+    "transcript": "I'm so disappointed in myself. I wish I had worked harder. I had such higher expectations for you. I really was hoping you were better than this.",
+    "speaker": "p022",
+    "emotion": "disappointment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p022/emo_neutral_sentences.wav",
+    "transcript": "That wall in the living room is white. There is one more piece of bread in the pantry. The store closes at 8pm tonight.",
+    "speaker": "p022",
+    "emotion": "neutral"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p022/emo_confusion_sentences.wav",
+    "transcript": "Huh, what is going on over here? What is this? Where are we going?",
+    "speaker": "p022",
+    "emotion": "confusion"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p022/emo_pride_sentences.wav",
+    "transcript": "That was all me, I'm the one who found the project, created the company and made it succeed. I have worked hard to get here and I deserve it. I'm really proud of how well you did.",
+    "speaker": "p022",
+    "emotion": "pride"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p022/emo_distress_sentences.wav",
+    "transcript": "Oh god, I am not sure if we are going to make this flight on time. This is all too stressful to handle right now. I don't know where anything is and I'm running late.",
+    "speaker": "p022",
+    "emotion": "distress"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p022/emo_amusement_sentences.wav",
+    "transcript": "The sound that baby just made was quite amusing. I liked that stand up comic, I found her pretty funny. What a fun little show to watch!",
+    "speaker": "p022",
+    "emotion": "amusement"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p022/emo_guilt_sentences.wav",
+    "transcript": "I'm sorry I did that to you. I really didn't mean to hurt you. I feel horrible that happened to you.",
+    "speaker": "p022",
+    "emotion": "guilt"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p022/emo_desire_sentences.wav",
+    "transcript": "Mmm that chocolate fudge lava cake looks devine. I want that car so badly. I can't wait to see you again.",
+    "speaker": "p022",
+    "emotion": "desire"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p022/emo_disgust_sentences.wav",
+    "transcript": "I have never seen anything grosser than this in my entire life. This is the worst dinner I've ever had. Yuck, I can't even look at that.",
+    "speaker": "p022",
+    "emotion": "disgust"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p022/emo_fear_sentences.wav",
+    "transcript": "Did you hear that sound? I'm afraid someone or something is outside. Oh my gosh, what is that? What do you think is going to happen if we don't run?",
+    "speaker": "p022",
+    "emotion": "fear"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p022/emo_embarassment_sentences.wav",
+    "transcript": "I don't know what happend, I followed the recipe perfectly but the cake just deflated. I'm so embarrassed. I hope no one saw that, I'd be mortified if they did.",
+    "speaker": "p022",
+    "emotion": "embarassment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p022/emo_contentment_sentences.wav",
+    "transcript": "I really enjoyed dinner tonight, it was quite nice. Everything is working out just fine. I'm good either way.",
+    "speaker": "p022",
+    "emotion": "contentment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p022/emo_realization_sentences.wav",
+    "transcript": "Wow, I never know that the body was made up of 75% water. Did you know that a flamingo is actually white but turns pink because it eats too many shrimp? Apparently dolphins sleep with one eye open.",
+    "speaker": "p022",
+    "emotion": "realization"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p022/emo_interest_sentences.wav",
+    "transcript": "Hmm, I wonder what that cookie tastes like. Oh, what is that over there? So what exactly is it that you do?",
+    "speaker": "p022",
+    "emotion": "interest"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p022/emo_cuteness_sentences.wav",
+    "transcript": "Look at that cute little kitty cat! Oh my goodness, she's so cute! That's the cutest thing I've ever seen!",
+    "speaker": "p022",
+    "emotion": "cuteness"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p095/emo_sadness_sentences.wav",
+    "transcript": "I am so upset by the state of the world. I hope it gets better soon. I really miss her, life isn't the same without her. I'm sorry for your loss.",
+    "speaker": "p095",
+    "emotion": "sadness"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p095/emo_anger_sentences.wav",
+    "transcript": "I'm so mad right now I could punch a hole in the wall. I can't believe he said that, he's such a jerk! There's a stop sign there and parents are just letting their kids run around!",
+    "speaker": "p095",
+    "emotion": "anger"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p095/emo_extasy_sentences.wav",
+    "transcript": "This is the most exciting thing I've ever seen in my life! I can't believe I got to see that. I'm so excited, I've never been there before.",
+    "speaker": "p095",
+    "emotion": "extasy"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p095/emo_amazement_sentences.wav",
+    "transcript": "I just love how you can play guitar. You're so impressive. I admire your abilities so much.",
+    "speaker": "p095",
+    "emotion": "amazement"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p095/emo_adoration_sentences.wav",
+    "transcript": "You're just the sweetest person I know and I am so happy to call you my friend. I had the best time with you, I just adore you. I love this gift, thank you!",
+    "speaker": "p095",
+    "emotion": "adoration"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p095/emo_pain_sentences.wav",
+    "transcript": "Oh, this headache is the worst one I've ever had! My foot hurts so badly right now! I'm in terrible pain from that medication.",
+    "speaker": "p095",
+    "emotion": "pain"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p095/emo_serenity_sentences.wav",
+    "transcript": "This has been the most peaceful day of my life. I am very calm right now. I'm going to relax and take a nap here on the beach.",
+    "speaker": "p095",
+    "emotion": "serenity"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p095/emo_relief_sentences.wav",
+    "transcript": "I'm so relieved my taxes are done. That was so stressful. I'm so relieved that is over with. Thank goodness that's all done.",
+    "speaker": "p095",
+    "emotion": "relief"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p095/emo_disappointment_sentences.wav",
+    "transcript": "I'm so disappointed in myself. I wish I had worked harder. I had such higher expectations for you. I really was hoping you were better than this.",
+    "speaker": "p095",
+    "emotion": "disappointment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p095/emo_neutral_sentences.wav",
+    "transcript": "That wall in the living room is white. There is one more piece of bread in the pantry. The store closes at 8pm tonight.",
+    "speaker": "p095",
+    "emotion": "neutral"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p095/emo_confusion_sentences.wav",
+    "transcript": "Huh, what is going on over here? What is this? Where are we going?",
+    "speaker": "p095",
+    "emotion": "confusion"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p095/emo_pride_sentences.wav",
+    "transcript": "That was all me, I'm the one who found the project, created the company and made it succeed. I have worked hard to get here and I deserve it. I'm really proud of how well you did.",
+    "speaker": "p095",
+    "emotion": "pride"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p095/emo_distress_sentences.wav",
+    "transcript": "Oh god, I am not sure if we are going to make this flight on time. This is all too stressful to handle right now. I don't know where anything is and I'm running late.",
+    "speaker": "p095",
+    "emotion": "distress"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p095/emo_amusement_sentences.wav",
+    "transcript": "The sound that baby just made was quite amusing. I liked that stand up comic, I found her pretty funny. What a fun little show to watch!",
+    "speaker": "p095",
+    "emotion": "amusement"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p095/emo_guilt_sentences.wav",
+    "transcript": "I'm sorry I did that to you. I really didn't mean to hurt you. I feel horrible that happened to you.",
+    "speaker": "p095",
+    "emotion": "guilt"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p095/emo_desire_sentences.wav",
+    "transcript": "Mmm that chocolate fudge lava cake looks devine. I want that car so badly. I can't wait to see you again.",
+    "speaker": "p095",
+    "emotion": "desire"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p095/emo_disgust_sentences.wav",
+    "transcript": "I have never seen anything grosser than this in my entire life. This is the worst dinner I've ever had. Yuck, I can't even look at that.",
+    "speaker": "p095",
+    "emotion": "disgust"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p095/emo_fear_sentences.wav",
+    "transcript": "Did you hear that sound? I'm afraid someone or something is outside. Oh my gosh, what is that? What do you think is going to happen if we don't run?",
+    "speaker": "p095",
+    "emotion": "fear"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p095/emo_embarassment_sentences.wav",
+    "transcript": "I don't know what happend, I followed the recipe perfectly but the cake just deflated. I'm so embarrassed. I hope no one saw that, I'd be mortified if they did.",
+    "speaker": "p095",
+    "emotion": "embarassment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p095/emo_contentment_sentences.wav",
+    "transcript": "I really enjoyed dinner tonight, it was quite nice. Everything is working out just fine. I'm good either way.",
+    "speaker": "p095",
+    "emotion": "contentment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p095/emo_realization_sentences.wav",
+    "transcript": "Wow, I never know that the body was made up of 75% water. Did you know that a flamingo is actually white but turns pink because it eats too many shrimp? Apparently dolphins sleep with one eye open.",
+    "speaker": "p095",
+    "emotion": "realization"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p095/emo_interest_sentences.wav",
+    "transcript": "Hmm, I wonder what that cookie tastes like. Oh, what is that over there? So what exactly is it that you do?",
+    "speaker": "p095",
+    "emotion": "interest"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p095/emo_cuteness_sentences.wav",
+    "transcript": "Look at that cute little kitty cat! Oh my goodness, she's so cute! That's the cutest thing I've ever seen!",
+    "speaker": "p095",
+    "emotion": "cuteness"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p096/emo_sadness_sentences.wav",
+    "transcript": "I am so upset by the state of the world. I hope it gets better soon. I really miss her, life isn't the same without her. I'm sorry for your loss.",
+    "speaker": "p096",
+    "emotion": "sadness"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p096/emo_anger_sentences.wav",
+    "transcript": "I'm so mad right now I could punch a hole in the wall. I can't believe he said that, he's such a jerk! There's a stop sign there and parents are just letting their kids run around!",
+    "speaker": "p096",
+    "emotion": "anger"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p096/emo_extasy_sentences.wav",
+    "transcript": "This is the most exciting thing I've ever seen in my life! I can't believe I got to see that. I'm so excited, I've never been there before.",
+    "speaker": "p096",
+    "emotion": "extasy"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p096/emo_amazement_sentences.wav",
+    "transcript": "I just love how you can play guitar. You're so impressive. I admire your abilities so much.",
+    "speaker": "p096",
+    "emotion": "amazement"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p096/emo_adoration_sentences.wav",
+    "transcript": "You're just the sweetest person I know and I am so happy to call you my friend. I had the best time with you, I just adore you. I love this gift, thank you!",
+    "speaker": "p096",
+    "emotion": "adoration"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p096/emo_pain_sentences.wav",
+    "transcript": "Oh, this headache is the worst one I've ever had! My foot hurts so badly right now! I'm in terrible pain from that medication.",
+    "speaker": "p096",
+    "emotion": "pain"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p096/emo_serenity_sentences.wav",
+    "transcript": "This has been the most peaceful day of my life. I am very calm right now. I'm going to relax and take a nap here on the beach.",
+    "speaker": "p096",
+    "emotion": "serenity"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p096/emo_relief_sentences.wav",
+    "transcript": "I'm so relieved my taxes are done. That was so stressful. I'm so relieved that is over with. Thank goodness that's all done.",
+    "speaker": "p096",
+    "emotion": "relief"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p096/emo_disappointment_sentences.wav",
+    "transcript": "I'm so disappointed in myself. I wish I had worked harder. I had such higher expectations for you. I really was hoping you were better than this.",
+    "speaker": "p096",
+    "emotion": "disappointment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p096/emo_neutral_sentences.wav",
+    "transcript": "That wall in the living room is white. There is one more piece of bread in the pantry. The store closes at 8pm tonight.",
+    "speaker": "p096",
+    "emotion": "neutral"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p096/emo_confusion_sentences.wav",
+    "transcript": "Huh, what is going on over here? What is this? Where are we going?",
+    "speaker": "p096",
+    "emotion": "confusion"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p096/emo_pride_sentences.wav",
+    "transcript": "That was all me, I'm the one who found the project, created the company and made it succeed. I have worked hard to get here and I deserve it. I'm really proud of how well you did.",
+    "speaker": "p096",
+    "emotion": "pride"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p096/emo_distress_sentences.wav",
+    "transcript": "Oh god, I am not sure if we are going to make this flight on time. This is all too stressful to handle right now. I don't know where anything is and I'm running late.",
+    "speaker": "p096",
+    "emotion": "distress"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p096/emo_amusement_sentences.wav",
+    "transcript": "The sound that baby just made was quite amusing. I liked that stand up comic, I found her pretty funny. What a fun little show to watch!",
+    "speaker": "p096",
+    "emotion": "amusement"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p096/emo_guilt_sentences.wav",
+    "transcript": "I'm sorry I did that to you. I really didn't mean to hurt you. I feel horrible that happened to you.",
+    "speaker": "p096",
+    "emotion": "guilt"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p096/emo_desire_sentences.wav",
+    "transcript": "Mmm that chocolate fudge lava cake looks devine. I want that car so badly. I can't wait to see you again.",
+    "speaker": "p096",
+    "emotion": "desire"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p096/emo_disgust_sentences.wav",
+    "transcript": "I have never seen anything grosser than this in my entire life. This is the worst dinner I've ever had. Yuck, I can't even look at that.",
+    "speaker": "p096",
+    "emotion": "disgust"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p096/emo_fear_sentences.wav",
+    "transcript": "Did you hear that sound? I'm afraid someone or something is outside. Oh my gosh, what is that? What do you think is going to happen if we don't run?",
+    "speaker": "p096",
+    "emotion": "fear"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p096/emo_embarassment_sentences.wav",
+    "transcript": "I don't know what happend, I followed the recipe perfectly but the cake just deflated. I'm so embarrassed. I hope no one saw that, I'd be mortified if they did.",
+    "speaker": "p096",
+    "emotion": "embarassment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p096/emo_contentment_sentences.wav",
+    "transcript": "I really enjoyed dinner tonight, it was quite nice. Everything is working out just fine. I'm good either way.",
+    "speaker": "p096",
+    "emotion": "contentment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p096/emo_realization_sentences.wav",
+    "transcript": "Wow, I never know that the body was made up of 75% water. Did you know that a flamingo is actually white but turns pink because it eats too many shrimp? Apparently dolphins sleep with one eye open.",
+    "speaker": "p096",
+    "emotion": "realization"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p096/emo_interest_sentences.wav",
+    "transcript": "Hmm, I wonder what that cookie tastes like. Oh, what is that over there? So what exactly is it that you do?",
+    "speaker": "p096",
+    "emotion": "interest"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p096/emo_cuteness_sentences.wav",
+    "transcript": "Look at that cute little kitty cat! Oh my goodness, she's so cute! That's the cutest thing I've ever seen!",
+    "speaker": "p096",
+    "emotion": "cuteness"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p086/emo_sadness_sentences.wav",
+    "transcript": "I am so upset by the state of the world. I hope it gets better soon. I really miss her, life isn't the same without her. I'm sorry for your loss.",
+    "speaker": "p086",
+    "emotion": "sadness"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p086/emo_anger_sentences.wav",
+    "transcript": "I'm so mad right now I could punch a hole in the wall. I can't believe he said that, he's such a jerk! There's a stop sign there and parents are just letting their kids run around!",
+    "speaker": "p086",
+    "emotion": "anger"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p086/emo_extasy_sentences.wav",
+    "transcript": "This is the most exciting thing I've ever seen in my life! I can't believe I got to see that. I'm so excited, I've never been there before.",
+    "speaker": "p086",
+    "emotion": "extasy"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p086/emo_amazement_sentences.wav",
+    "transcript": "I just love how you can play guitar. You're so impressive. I admire your abilities so much.",
+    "speaker": "p086",
+    "emotion": "amazement"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p086/emo_adoration_sentences.wav",
+    "transcript": "You're just the sweetest person I know and I am so happy to call you my friend. I had the best time with you, I just adore you. I love this gift, thank you!",
+    "speaker": "p086",
+    "emotion": "adoration"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p086/emo_pain_sentences.wav",
+    "transcript": "Oh, this headache is the worst one I've ever had! My foot hurts so badly right now! I'm in terrible pain from that medication.",
+    "speaker": "p086",
+    "emotion": "pain"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p086/emo_serenity_sentences.wav",
+    "transcript": "This has been the most peaceful day of my life. I am very calm right now. I'm going to relax and take a nap here on the beach.",
+    "speaker": "p086",
+    "emotion": "serenity"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p086/emo_relief_sentences.wav",
+    "transcript": "I'm so relieved my taxes are done. That was so stressful. I'm so relieved that is over with. Thank goodness that's all done.",
+    "speaker": "p086",
+    "emotion": "relief"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p086/emo_disappointment_sentences.wav",
+    "transcript": "I'm so disappointed in myself. I wish I had worked harder. I had such higher expectations for you. I really was hoping you were better than this.",
+    "speaker": "p086",
+    "emotion": "disappointment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p086/emo_neutral_sentences.wav",
+    "transcript": "That wall in the living room is white. There is one more piece of bread in the pantry. The store closes at 8pm tonight.",
+    "speaker": "p086",
+    "emotion": "neutral"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p086/emo_confusion_sentences.wav",
+    "transcript": "Huh, what is going on over here? What is this? Where are we going?",
+    "speaker": "p086",
+    "emotion": "confusion"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p086/emo_pride_sentences.wav",
+    "transcript": "That was all me, I'm the one who found the project, created the company and made it succeed. I have worked hard to get here and I deserve it. I'm really proud of how well you did.",
+    "speaker": "p086",
+    "emotion": "pride"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p086/emo_distress_sentences.wav",
+    "transcript": "Oh god, I am not sure if we are going to make this flight on time. This is all too stressful to handle right now. I don't know where anything is and I'm running late.",
+    "speaker": "p086",
+    "emotion": "distress"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p086/emo_amusement_sentences.wav",
+    "transcript": "The sound that baby just made was quite amusing. I liked that stand up comic, I found her pretty funny. What a fun little show to watch!",
+    "speaker": "p086",
+    "emotion": "amusement"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p086/emo_guilt_sentences.wav",
+    "transcript": "I'm sorry I did that to you. I really didn't mean to hurt you. I feel horrible that happened to you.",
+    "speaker": "p086",
+    "emotion": "guilt"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p086/emo_desire_sentences.wav",
+    "transcript": "Mmm that chocolate fudge lava cake looks devine. I want that car so badly. I can't wait to see you again.",
+    "speaker": "p086",
+    "emotion": "desire"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p086/emo_disgust_sentences.wav",
+    "transcript": "I have never seen anything grosser than this in my entire life. This is the worst dinner I've ever had. Yuck, I can't even look at that.",
+    "speaker": "p086",
+    "emotion": "disgust"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p086/emo_fear_sentences.wav",
+    "transcript": "Did you hear that sound? I'm afraid someone or something is outside. Oh my gosh, what is that? What do you think is going to happen if we don't run?",
+    "speaker": "p086",
+    "emotion": "fear"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p086/emo_embarassment_sentences.wav",
+    "transcript": "I don't know what happend, I followed the recipe perfectly but the cake just deflated. I'm so embarrassed. I hope no one saw that, I'd be mortified if they did.",
+    "speaker": "p086",
+    "emotion": "embarassment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p086/emo_contentment_sentences.wav",
+    "transcript": "I really enjoyed dinner tonight, it was quite nice. Everything is working out just fine. I'm good either way.",
+    "speaker": "p086",
+    "emotion": "contentment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p086/emo_realization_sentences.wav",
+    "transcript": "Wow, I never know that the body was made up of 75% water. Did you know that a flamingo is actually white but turns pink because it eats too many shrimp? Apparently dolphins sleep with one eye open.",
+    "speaker": "p086",
+    "emotion": "realization"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p086/emo_interest_sentences.wav",
+    "transcript": "Hmm, I wonder what that cookie tastes like. Oh, what is that over there? So what exactly is it that you do?",
+    "speaker": "p086",
+    "emotion": "interest"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p086/emo_cuteness_sentences.wav",
+    "transcript": "Look at that cute little kitty cat! Oh my goodness, she's so cute! That's the cutest thing I've ever seen!",
+    "speaker": "p086",
+    "emotion": "cuteness"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p067/emo_sadness_sentences.wav",
+    "transcript": "I am so upset by the state of the world. I hope it gets better soon. I really miss her, life isn't the same without her. I'm sorry for your loss.",
+    "speaker": "p067",
+    "emotion": "sadness"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p067/emo_anger_sentences.wav",
+    "transcript": "I'm so mad right now I could punch a hole in the wall. I can't believe he said that, he's such a jerk! There's a stop sign there and parents are just letting their kids run around!",
+    "speaker": "p067",
+    "emotion": "anger"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p067/emo_extasy_sentences.wav",
+    "transcript": "This is the most exciting thing I've ever seen in my life! I can't believe I got to see that. I'm so excited, I've never been there before.",
+    "speaker": "p067",
+    "emotion": "extasy"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p067/emo_amazement_sentences.wav",
+    "transcript": "I just love how you can play guitar. You're so impressive. I admire your abilities so much.",
+    "speaker": "p067",
+    "emotion": "amazement"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p067/emo_adoration_sentences.wav",
+    "transcript": "You're just the sweetest person I know and I am so happy to call you my friend. I had the best time with you, I just adore you. I love this gift, thank you!",
+    "speaker": "p067",
+    "emotion": "adoration"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p067/emo_pain_sentences.wav",
+    "transcript": "Oh, this headache is the worst one I've ever had! My foot hurts so badly right now! I'm in terrible pain from that medication.",
+    "speaker": "p067",
+    "emotion": "pain"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p067/emo_serenity_sentences.wav",
+    "transcript": "This has been the most peaceful day of my life. I am very calm right now. I'm going to relax and take a nap here on the beach.",
+    "speaker": "p067",
+    "emotion": "serenity"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p067/emo_relief_sentences.wav",
+    "transcript": "I'm so relieved my taxes are done. That was so stressful. I'm so relieved that is over with. Thank goodness that's all done.",
+    "speaker": "p067",
+    "emotion": "relief"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p067/emo_disappointment_sentences.wav",
+    "transcript": "I'm so disappointed in myself. I wish I had worked harder. I had such higher expectations for you. I really was hoping you were better than this.",
+    "speaker": "p067",
+    "emotion": "disappointment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p067/emo_neutral_sentences.wav",
+    "transcript": "That wall in the living room is white. There is one more piece of bread in the pantry. The store closes at 8pm tonight.",
+    "speaker": "p067",
+    "emotion": "neutral"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p067/emo_confusion_sentences.wav",
+    "transcript": "Huh, what is going on over here? What is this? Where are we going?",
+    "speaker": "p067",
+    "emotion": "confusion"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p067/emo_pride_sentences.wav",
+    "transcript": "That was all me, I'm the one who found the project, created the company and made it succeed. I have worked hard to get here and I deserve it. I'm really proud of how well you did.",
+    "speaker": "p067",
+    "emotion": "pride"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p067/emo_distress_sentences.wav",
+    "transcript": "Oh god, I am not sure if we are going to make this flight on time. This is all too stressful to handle right now. I don't know where anything is and I'm running late.",
+    "speaker": "p067",
+    "emotion": "distress"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p067/emo_amusement_sentences.wav",
+    "transcript": "The sound that baby just made was quite amusing. I liked that stand up comic, I found her pretty funny. What a fun little show to watch!",
+    "speaker": "p067",
+    "emotion": "amusement"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p067/emo_guilt_sentences.wav",
+    "transcript": "I'm sorry I did that to you. I really didn't mean to hurt you. I feel horrible that happened to you.",
+    "speaker": "p067",
+    "emotion": "guilt"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p067/emo_desire_sentences.wav",
+    "transcript": "Mmm that chocolate fudge lava cake looks devine. I want that car so badly. I can't wait to see you again.",
+    "speaker": "p067",
+    "emotion": "desire"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p067/emo_disgust_sentences.wav",
+    "transcript": "I have never seen anything grosser than this in my entire life. This is the worst dinner I've ever had. Yuck, I can't even look at that.",
+    "speaker": "p067",
+    "emotion": "disgust"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p067/emo_fear_sentences.wav",
+    "transcript": "Did you hear that sound? I'm afraid someone or something is outside. Oh my gosh, what is that? What do you think is going to happen if we don't run?",
+    "speaker": "p067",
+    "emotion": "fear"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p067/emo_embarassment_sentences.wav",
+    "transcript": "I don't know what happend, I followed the recipe perfectly but the cake just deflated. I'm so embarrassed. I hope no one saw that, I'd be mortified if they did.",
+    "speaker": "p067",
+    "emotion": "embarassment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p067/emo_contentment_sentences.wav",
+    "transcript": "I really enjoyed dinner tonight, it was quite nice. Everything is working out just fine. I'm good either way.",
+    "speaker": "p067",
+    "emotion": "contentment"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p067/emo_realization_sentences.wav",
+    "transcript": "Wow, I never know that the body was made up of 75% water. Did you know that a flamingo is actually white but turns pink because it eats too many shrimp? Apparently dolphins sleep with one eye open.",
+    "speaker": "p067",
+    "emotion": "realization"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p067/emo_interest_sentences.wav",
+    "transcript": "Hmm, I wonder what that cookie tastes like. Oh, what is that over there? So what exactly is it that you do?",
+    "speaker": "p067",
+    "emotion": "interest"
+  },
+  {
+    "audio_path": "ears_dataset_24k/p067/emo_cuteness_sentences.wav",
+    "transcript": "Look at that cute little kitty cat! Oh my goodness, she's so cute! That's the cutest thing I've ever seen!",
+    "speaker": "p067",
+    "emotion": "cuteness"
+  }
+]
