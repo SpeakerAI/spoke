@@ -5,10 +5,20 @@ Pytest configuration and shared fixtures for Spoke TTS tests.
 import sys
 import os
 import pytest
+from unittest.mock import MagicMock
 
 # Add project root to path
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, PROJECT_ROOT)
+
+# Mock the inference engine before importing server
+# This avoids needing styletts2/torch in CI
+sys.modules['styletts2'] = MagicMock()
+sys.modules['styletts2.tts'] = MagicMock()
+sys.modules['torch'] = MagicMock()
+sys.modules['scipy'] = MagicMock()
+sys.modules['scipy.io'] = MagicMock()
+sys.modules['scipy.io.wavfile'] = MagicMock()
 
 from server.server import app
 
