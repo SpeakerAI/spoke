@@ -13,15 +13,16 @@ PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, PROJECT_ROOT)
 
 # Create mock speaker_statistics.json data for voice_matcher
+# Must include all fields used by voice_matcher.py
 MOCK_SPEAKER_DATA = {
-    "p001": {"gender": "male", "age": "26-35", "ethnicity": "white or caucasian"},
-    "p002": {"gender": "female", "age": "26-35", "ethnicity": "white or caucasian"},
-    "p003": {"gender": "male", "age": "36-45", "ethnicity": "black or african american"},
-    "p004": {"gender": "female", "age": "18-25", "ethnicity": "asian"},
-    "p005": {"gender": "male", "age": "26-35", "ethnicity": "hispanic or latino"},
-    "p032": {"gender": "male", "age": "36-45", "ethnicity": "white or caucasian"},
-    "p050": {"gender": "female", "age": "46-55", "ethnicity": "white or caucasian"},
-    "p107": {"gender": "male", "age": "56-65", "ethnicity": "black or african american"},
+    "p001": {"gender": "male", "age": "26-35", "ethnicity": "white or caucasian", "native language": "american english"},
+    "p002": {"gender": "female", "age": "26-35", "ethnicity": "white or caucasian", "native language": "american english"},
+    "p003": {"gender": "male", "age": "36-45", "ethnicity": "black or african american", "native language": "american english"},
+    "p004": {"gender": "female", "age": "18-25", "ethnicity": "asian", "native language": "american english"},
+    "p005": {"gender": "male", "age": "26-35", "ethnicity": "hispanic or latino", "native language": "american english"},
+    "p032": {"gender": "male", "age": "36-45", "ethnicity": "white or caucasian", "native language": "british english"},
+    "p050": {"gender": "female", "age": "46-55", "ethnicity": "white or caucasian", "native language": "american english"},
+    "p107": {"gender": "male", "age": "56-65", "ethnicity": "black or african american", "native language": "american english"},
 }
 
 # Mock all heavy dependencies before any server imports
