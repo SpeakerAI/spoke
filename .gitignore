@@ -1,10 +1,86 @@
-__pycache__
-ears*
-Logs
-Models
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+env/
+venv/
+.env
+
+# Logs
+*.log
+Logs/
+
+# Audio output
+output_audio/
+*.wav
+
+# Models (large files)
+Models/
+*.pth
+
+# Data
 jlcorpus/
 ravdess/
 barely/
 angry_collection5/
 old_checkpoints/
-jlcorpus/
+ears*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.deb
+
+# Project specific - exclude from repo
+certif_bloc_5.csv
+speaker_statistics.json
+emotions/
+cloudflared-linux-amd64.deb
+
+# Old files at root (moved to server/)
+/emotion_router.py
+/inference_engine.py
+/marketplace.py
+/voice_matcher.py
+/server.py
+
+# Shell scripts at root (moved to scripts/)
+/manage_server.sh
+/monitor.sh
+/setup_https.sh
+/view_logs.sh
+/watchdog.sh
+/list_available_voices.sh
+
+# Test/example files at root
+/test_*.wav
+/test_*.html
+/test_client.html
+
+# Misc documentation files at root (copies exist in docs/)
+/API_USAGE.md
+/FINAL_INTEGRATION.js
+/INTEGRATION_EXAMPLE.js
+/MARKETPLACE_GUIDE.md
+/MONITORING.md
+/QUICK_START_WATCHDOG.md
+/README_FINAL.md
+/README_SERVER.md
+/SETUP_MARKETPLACE.md
+/SIMPLE_INTEGRATION.js
+/TODO.md
+/VOICE_MATCHING.md
+/VOICE_MATCHING_SUMMARY.md
+/WATCHDOG_README.md
+/.env.example
+/supabase_schema.sql
